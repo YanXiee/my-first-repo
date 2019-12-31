@@ -2,7 +2,7 @@
 
 ## Info about me
 
-I live in East Lansing in the state of Michigan in the United States of America. I'm from Chongqing, China.
+I live in East Lansing, Michigan, USA. I'm originally from Chongqing, China.
 
 ## Food
 - Hotpot
