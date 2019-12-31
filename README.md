@@ -2,7 +2,7 @@
 
 ## Info about me
 
-I live in Ease Lansing in the state of Michigan in the United States of America. I'm from Chongqing, China.
+I live in East Lansing in the state of Michigan in the United States of America. I'm from Chongqing, China.
 
 ## Food
 - Hotpot
@@ -11,7 +11,7 @@ I live in Ease Lansing in the state of Michigan in the United States of America.
 
 ## Habits
 1. Swimming
-2. Traveling
+2. Travelling
 3. Photography
 
 ## Contacts
